@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="fec_nac">Seleccione fecha de nacimiento</string>
+    <string name="ver_fec_nac">Fecha de nacimiento: </string>
+    <string name="telefono">Teléfono</string>
+    <string name="ver_telefono">Tel: </string>
+    <string name="email">Email</string>
+    <string name="ver_email">Email: </string>
+    <string name="descripcion">Descripción</string>
+    <string name="ver_descripcion">Descripción: </string>
+    <string name="siguiente">Siguiente</string>
+    <string name="confirmar_datos">Confirmar Datos</string>
+    <string name="editar_datos">Editar Datos</string>
+    <string name="dummy_nombre">Jonathan Domingo Castillo Yaguas</string>
+    <string name="dummy_fecha">12/12/2020</string>
+    <string name="dummy_tel">25224488</string>
+    <string name="dummy_email">correo@gmail.com</string>
+    <string name="dummy_descripcion">Esta es una descripcion de ejemplo, donde podre observar como se comporta el view.</string>
+    <string name="titulo_datepicker">Fecha de nacimiento</string>
+
+    <!---->
+    <string name="var_nombre">nombre</string>
+    <string name="var_fec_nac">fecha</string>
+    <string name="var_telefono">telefono</string>
+    <string name="var_email">email</string>
+    <string name="var_descripcion">descripcion</string>
+
+    <string name="error">Valor requerido</string>
+
+
+</resources>

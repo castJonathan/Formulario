@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margen_titulo">20dp</dimen>
+    <dimen name="tamano_titulo">36sp</dimen>
+    <dimen name="tamano_nombre">18sp</dimen>
+    <dimen name="tamano_texto_datos">18sp</dimen>
+    <dimen name="margen_intermedio">5dp</dimen>
+    <dimen name="margen_boton_datos">30dp</dimen>
+</resources>
